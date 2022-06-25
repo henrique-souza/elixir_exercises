@@ -1,2 +1,3 @@
-square = fn x -> x * x end
-IO.puts(square.(5))
+raizquadrada = fn x -> x * x end
+IO.puts(raizquadrada.(7))
+# 49
